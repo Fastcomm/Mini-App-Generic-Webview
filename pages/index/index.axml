@@ -1,0 +1,4 @@
+<view>   
+    <!-- Add your site URL below -->
+    <web-view src="http://www.yourownurl.co"></web-view>
+</view>
